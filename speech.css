@@ -139,7 +139,8 @@ h5{
     left: -180px;
     top: 47%;
     transform: rotate(-90deg);
-    font-size: 40px;
+    font-size: 30px;
+    opacity: 0.7;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
     color: blanchedalmond;
